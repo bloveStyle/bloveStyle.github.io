@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.1585b05d.chunk.css",
-    "main.js": "/static/js/main.7eaa3889.chunk.js",
-    "main.js.map": "/static/js/main.7eaa3889.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b742ba0b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b742ba0b.js.map",
+    "main.css": "/static/css/main.b28afb48.chunk.css",
+    "main.js": "/static/js/main.d06e1817.chunk.js",
+    "main.js.map": "/static/js/main.d06e1817.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5a0b0263.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5a0b0263.js.map",
     "static/css/2.1f196bcc.chunk.css": "/static/css/2.1f196bcc.chunk.css",
-    "static/js/2.8c460cc5.chunk.js": "/static/js/2.8c460cc5.chunk.js",
-    "static/js/2.8c460cc5.chunk.js.map": "/static/js/2.8c460cc5.chunk.js.map",
-    "static/js/3.0ca06b9c.chunk.js": "/static/js/3.0ca06b9c.chunk.js",
-    "static/js/3.0ca06b9c.chunk.js.map": "/static/js/3.0ca06b9c.chunk.js.map",
+    "static/js/2.ec7b04f5.chunk.js": "/static/js/2.ec7b04f5.chunk.js",
+    "static/js/2.ec7b04f5.chunk.js.map": "/static/js/2.ec7b04f5.chunk.js.map",
+    "static/js/3.58da156f.chunk.js": "/static/js/3.58da156f.chunk.js",
+    "static/js/3.58da156f.chunk.js.map": "/static/js/3.58da156f.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.1f196bcc.chunk.css.map": "/static/css/2.1f196bcc.chunk.css.map",
-    "static/css/main.1585b05d.chunk.css.map": "/static/css/main.1585b05d.chunk.css.map",
-    "static/js/2.8c460cc5.chunk.js.LICENSE.txt": "/static/js/2.8c460cc5.chunk.js.LICENSE.txt",
+    "static/css/main.b28afb48.chunk.css.map": "/static/css/main.b28afb48.chunk.css.map",
+    "static/js/2.ec7b04f5.chunk.js.LICENSE.txt": "/static/js/2.ec7b04f5.chunk.js.LICENSE.txt",
     "static/media/1wifi.7e46a91d.png": "/static/media/1wifi.7e46a91d.png",
     "static/media/2IMSI.59eb8867.png": "/static/media/2IMSI.59eb8867.png",
     "static/media/3equipment.7d7524b7.jpg": "/static/media/3equipment.7d7524b7.jpg",
@@ -26,10 +26,10 @@
     "static/media/index.module.scss": "/static/media/anti-virus.b2621bf2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b742ba0b.js",
+    "static/js/runtime-main.5a0b0263.js",
     "static/css/2.1f196bcc.chunk.css",
-    "static/js/2.8c460cc5.chunk.js",
-    "static/css/main.1585b05d.chunk.css",
-    "static/js/main.7eaa3889.chunk.js"
+    "static/js/2.ec7b04f5.chunk.js",
+    "static/css/main.b28afb48.chunk.css",
+    "static/js/main.d06e1817.chunk.js"
   ]
 }
